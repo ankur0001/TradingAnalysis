@@ -1,1 +1,0 @@
-ITOS Colab Stock Run: Lean end-to-end workflow for testing strategies on real Parquet stock data in Colab. It includes core data models, a simple strategy runner, and analytics. Place Parquet OHLCV per symbol under /content/drive/MyDrive/itos_data/parquet_files.
