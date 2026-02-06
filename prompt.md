@@ -300,7 +300,7 @@ P-03_analytics_STR_001.ipynb
 System phases are **never** named as STR_xxx.
 
 ---
-## 10. FINAL TRUTH (READ THIS TWICE)
+## 8. FINAL TRUTH (READ THIS TWICE)
 
 You are not trying to:
 
