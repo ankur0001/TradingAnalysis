@@ -1,5 +1,6 @@
 I wanted to make ITOS :
 
+
 # 📘 ITOS — Intraday Trading Operating System
 
 ## 1. WHAT THIS PROJECT IS
@@ -312,5 +313,10 @@ You are building:
 
 > A **decision system** that knows
 > *when NOT to trade* better than most traders know *when to trade*.
+
+I have below data :
+https://www.kaggle.com/datasets/debashis74017/algo-trading-data-nifty-100-data-with-indicators
+
+we can use to research/while making the right stratery => we should test each and every strategy on each company every time period so that it should be back tested automatically and it should be applied in upcoming dates for buy/sell signal
 
 That’s how professional desks survive.
